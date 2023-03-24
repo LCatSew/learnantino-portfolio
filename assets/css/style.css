@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: #313d47;
+    color:darkslategrey;
+
+}
+
+h1 {
+    font-size: 200%;
+    background-color:lightblue;
+    padding-left: 30px;
+}
+
+h2 {
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    list-style: none;
+}
+
+nav a {
+    color: lightblue;
+    font-weight: bold;
+}
