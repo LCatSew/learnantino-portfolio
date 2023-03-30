@@ -1,4 +1,4 @@
-# learnantino-portfolio
+# Learnantino-portfolio
 Module 2 challenge
 
 ## User Story
@@ -22,4 +22,5 @@ SO THAT I can review samples of their work and assess whether they're a good can
   * THEN I am taken to that deployed application
 * WHEN I resize the page or view the site on various screens and devices
   * THEN I am presented with a responsive layout that adapts to my viewport
-  
+
+> If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
