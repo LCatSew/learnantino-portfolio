@@ -24,3 +24,6 @@ SO THAT I can review samples of their work and assess whether they're a good can
   * THEN I am presented with a responsive layout that adapts to my viewport
 
 > If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
+
+## Final Product
+![screenshot-of-final-image.](./assets/images/learnantino-portfolio-final-img.png)
