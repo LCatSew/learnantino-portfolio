@@ -25,5 +25,8 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 > If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
 
-## Final Product
+## Final Product Image
 ![screenshot-of-final-image.](./assets/images/learnantino-portfolio-final-img.png)
+
+## Deployed Application
+[Deployed link](https://lcatsew.github.io/learnantino-portfolio/) 
