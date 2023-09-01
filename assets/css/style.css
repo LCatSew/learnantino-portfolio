@@ -164,7 +164,7 @@ nav a:hover {
 .work-img-1 { /*larger work section image source contained here*/
     width: 100%;
     height: 200px;
-    background-color: var(--stromboli);
+    /* background-color: var(--stromboli); */
     background-image: url("../images/20sci-spacecalendar-green-comet-jklw-superJumbo.webp");
     background-size: 100%;
 }
